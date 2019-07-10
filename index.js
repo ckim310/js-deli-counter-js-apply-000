@@ -1,1 +1,3 @@
-function takeANumber(arr, )
+function takeANumber(arr, firstName) {
+  
+}
